@@ -1,0 +1,3 @@
+rootProject.name = 'hyperpayreactNativeDemo'
+
+include ':app', ':oppwa.mobile-2.37.0'
