@@ -4,7 +4,7 @@ Hyperpay SDK and reactNative bridge demo
 
 This is Just an Android demo on How to build a ReactNative Birdge for Hyperpay Native SDK
 
-To help you better I've provided all the steps requrid below:
+To create the a bridge please follow the steps below:
 
 1- First of all if you are using EXPO you need to eject it to get the native code
 2- Add our SDK to native code using (xcode, android studio) as the below guide :
